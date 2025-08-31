@@ -1,10 +1,8 @@
 selenium
 requests
-selenium-interceptor
 undetected-chromedriver
 selenium-wire
 webdriver-manager
-selenium-injector
 
 # google-colab
 # PyVirtualDisplay
